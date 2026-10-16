@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Audit"
+  short_description: "从要求、行为和产物审查理解偏差与无依据附和，并验证具体调整是否有效"
+  default_prompt: "使用 $codex-audit 审查我提供的 Codex 工作案例，先定位具体偏差和证据，再提出可验证的调整。"
