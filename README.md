@@ -76,7 +76,7 @@ python -B -m unittest discover -s tests -v
 
 复用了 Agent Check 的证据诊断、漂移追踪和原对话恢复方法，新增了独立审查入口及可选 Codex 元数据采集工具。改编关系见 [来源说明](references/provenance.md)。
 
-项目采用 [MIT 许可证](LICENSE)。当前是公开试用版；版本变化见 [更新记录](CHANGELOG.md)，已测试平台和未验证项以验证记录为准。
+项目采用 [MIT 许可证](LICENSE)。当前仓库 `SKILL.md` 版本为 **0.2.1**（版本变化见 [更新记录](CHANGELOG.md)，已公开 ZIP 发行包仍为 `v0.1.0-rc.1`）；已测试平台和未验证项以验证记录为准。
 
 ## 试用后反馈
 
